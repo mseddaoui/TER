@@ -1,0 +1,1 @@
+    tdebut=time.time()
